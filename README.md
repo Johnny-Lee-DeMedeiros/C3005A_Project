@@ -1,12 +1,12 @@
 # C3005A_Project
-Final Project for C3005A Database Class
+### Final Project for C3005A Database Class
 
 Name: Johnny Lee-De Medeiros
 
 - C3005A_Project_Report details the designing process for the bookstore database
 - DDL files will be used to import the database table schemas by executing \i "url_to_ddl_file" in the SQL shell after creating a new database
 
-How to Add tables:
+### How to Add tables:
 1. Open SQL shell
 2. Log into the default database
 3. Enter: create database bookstore;
